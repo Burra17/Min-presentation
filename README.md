@@ -1,3 +1,3 @@
-# Övning 1 - Presentation
+# Exercise 1 - Presentation
 My name is André Pettersson, I am 22 years old and from Hudiksvall. I have a strong interest in sports, especially football. Outside of that, I enjoy spending time with friends and family, having a beer, playing video games, and watching movies and TV series.
 During my studies at NBI, I want to gain the skills needed to become attractive on the IT job market. I also want to grow both professionally and personally – becoming more confident, improving my problem-solving abilities, and learning how to collaborate more effectively with others.
